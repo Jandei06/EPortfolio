@@ -1,0 +1,42 @@
+/* Add your profile image here */
+.Photo {
+  background-image: url("https://images.pexels.com/photos/3799821/pexels-photo-3799821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+/* Projects Photo */
+.project1 {
+  background-image: url("../img/How-to-Win-Monopoly-Game-Board.jpg");
+  cursor: none;
+}
+.project2 {
+  background-image: url("../img/DALL·E\ 2024-04-22\ 07.40.28\ -\ Design\ a\ logo\ inspired\ by\ the\ popular\ streaming\ service\,\ featuring\ bold\ red\ letters\ on\ a\ black\ background.\ The\ logo\ should\ read\ 'FlickFinder'\ in\ a\ .webp");
+  cursor: none;
+}
+.project3 {
+  background-image: url("../img/EduShare_Logo_Homepage_Big.b36ff783.png");
+  cursor: none;
+}
+.project4 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Project+four");
+  cursor: none;
+}
+.project5 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Project+five");
+  cursor: none;
+}
+.project6 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Project+six");
+  cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1 {
+  background-image: url("../img/1.webp");
+  cursor: none;
+}
+.misc2 {
+  background-image: url("../img/7-Benefits-That-Highlight-The-Importance-Of-Soft-Skills-In-The-Workplace.webp");
+  cursor: none;
+}
+.misc3 {
+  background-image: url("../img/download.png");
+  cursor: none;
+}
